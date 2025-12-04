@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "超特急逃走中",
+  "base_artist": "=LOVE",
+  "createdAt": "2025-12-04T12:43:25.381019Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "超特急逃走中",
+      "artist": "=LOVE",
+      "has_synced": true,
+      "path": "select/01_超特急逃走中_=LOVE.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "超特急逃走中(instrumental)",
+      "artist": "=LOVE",
+      "has_synced": true,
+      "path": "select/02_超特急逃走中(instrumental)_=LOVE.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "超特急逃走中",
+      "artist": "=LOVE",
+      "has_synced": true,
+      "path": "select/03_超特急逃走中_=LOVE.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "超特急逃走中 -Instrumental-",
+      "artist": "=LOVE",
+      "has_synced": true,
+      "path": "select/04_超特急逃走中_-Instrumental-_=LOVE.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "超特急逃走中",
+      "artist": "=LOVE",
+      "has_synced": false,
+      "path": "select/pl_01_超特急逃走中_=LOVE.txt"
+    }
+  ]
+}
